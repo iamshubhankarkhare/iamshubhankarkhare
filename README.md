@@ -1,11 +1,27 @@
+
+<table style={{border:none}}>
+<tr>
+<td>
+	
+ <img align="center" src="https://github.com/iamshubhankarkhare/iamshubhankarkhare/blob/master/shubh-min.JPG" height="300"/>
+
+<td/>
+<td>
+
+
     class  Developer {
 	constructor() {
 		this.name = "Shubhankar Khare";
 		this.traits = ["Design", "Dev"];
 		this.age = new Date().getFullYear() - 2000;
-       }
+	    }
     }
-  
+
+<td/>
+<tr/>
+<table/>
+
+
   <br/>
 
 **Languages and Tools:**  
@@ -27,3 +43,5 @@
 <a href="https://github.com/iamshubhankarkhare?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamshubhankarkhare&layout=compact" />
 </a>
+<br/>
+
