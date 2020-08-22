@@ -1,4 +1,8 @@
 
+<h1 align="center">Hello world!</h1>
+<h3 align="center">I'm Shubhankar khare, a passionate full stack web developer from India</h3>
+<br/>
+<br/>
 <table style={{border:none}}>
 <tr>
 <td>
@@ -24,7 +28,7 @@
 
   <br/>
 
-**Flex:**  
+**Tech Stack:**  
 
 <br/>
 
