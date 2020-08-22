@@ -3,7 +3,7 @@
 <tr>
 <td>
 	
- <img align="center" src="https://github.com/iamshubhankarkhare/iamshubhankarkhare/blob/master/shubh-min.JPG" height="300"/>
+ <img align="center" src="https://github.com/iamshubhankarkhare/iamshubhankarkhare/blob/master/shubh.jpeg" height="250"/>
 
 <td/>
 <td>
@@ -24,7 +24,7 @@
 
   <br/>
 
-**Languages and Tools:**  
+**Flex:**  
 
 <br/>
 
@@ -40,8 +40,19 @@
 <br/>
 <br/>
 <br/>
-<a href="https://github.com/iamshubhankarkhare?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamshubhankarkhare&layout=compact" />
-</a>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamshubhankarkhare&layout=compact&hide=html" alt="shubh" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamshubhankarkhare&show_icons=true" alt="shubh" /></p>
+
 <br/>
+<p align="center">
+<a href="https://about.me/shubhankarkhare/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/about-dot-me.svg" alt="shubh" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/shubhankar-khare/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shubh" height="30" width="30" /></a>
+<a href="https://www.instagram.com/shubhankar_khare/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="shubh" height="30" width="30" /></a>
+</p>
+
+[Check out my portfolio here](http://shubhankarkhare.netlify.app/)
+
+
 
