@@ -47,7 +47,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamshubhankarkhare&layout=compact&hide=html" alt="shubh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamshubhankarkhare&show_icons=true" alt="shubh" /></p>
 
 <br/>
 <p align="center">
@@ -56,7 +55,7 @@
 <a href="https://www.instagram.com/shubhankar_khare/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="shubh" height="30" width="30" /></a>
 </p>
 
-[Check out my portfolio here](http://shubhankarkhare.netlify.app/)
+
 
 
 
